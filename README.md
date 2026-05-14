@@ -37,11 +37,11 @@ The application allows users to:
 
 ---
 
-# Clone the Repository
+# STEPS TO RUN THE PROGRAM
 
 STEP 1
 
-git clone git clone https://github.com/Shanwanth-16/Finance-Credit-follow-up-AI-Agent.git
+git clone https://github.com/Shanwanth-16/Finance-Credit-follow-up-AI-Agent.git
 
 ---
 STEP 2
