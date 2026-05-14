@@ -41,12 +41,12 @@ The application allows users to:
 
 STEP 1
 
-git clone https://github.com/Shanwanth-16/finance-ai-agent.git
+git clone git clone https://github.com/Shanwanth-16/Finance-Credit-follow-up-AI-Agent.git
 
 ---
 STEP 2
 
-cd finance-ai-agent.git
+cd Finance-Credit-follow-up-AI-Agent.git
 
 ---
 STEP 3
