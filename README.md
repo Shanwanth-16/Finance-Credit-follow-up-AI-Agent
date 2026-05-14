@@ -75,7 +75,8 @@ Generating an openrouter api key to access the LLM
 
 1. Visit:https://openrouter.ai/
 2. Generate a key and copy the key to your clipboard
-3. Create a .env file in the project folder and add the line api_key=YOUR_API_KEY
+3. To create and add the API_KEY to .env file
+      echo "API_KEY=YOUR_API_KEY" > .env    
  
 ---
 
