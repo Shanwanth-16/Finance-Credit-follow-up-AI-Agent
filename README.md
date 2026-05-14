@@ -40,34 +40,63 @@ The application allows users to:
 # Clone the Repository
 
 STEP 1
+
 git clone https://github.com/Shanwanth-16/finance-ai-agent.git
+
 ---
 STEP 2
+
 cd finance-ai-agent.git
+
 ---
 STEP 3
+
 Create a virtual enviroment 
+
 python3 -m venv venv
+
 Axtivate the virtual environment
+
 source venv/bin/activate
+
 ---
+
 STEP 4
+
 Download dependencies mentioned in requirements.txt
+
 pip install -r requirements.txt
+
 ---
+
 STEP 5
+
 Generating an openrouter api key to access the LLM
+
 1. Visit:https://openrouter.ai/
 2. Generate a key and copy the key to your clipboard
 3. Create a .env file in the project folder and add the line api_key=YOUR_API_KEY
+ 
+---
+
 STEP 6
+
 Generating Fake Data
+
 Now just run the fakeDataGenerator.py file by running the coomand in VS Code terminal
+
 python fake_data_generator.py
+
 This will create an invoices.csv file in the project folder
+
+---
+
 STEP 7
+
 To run the app
+
 In vs code terminal write : streamlit run app.py
+
 This will open the app in your browser.
 
 THANK YOU
